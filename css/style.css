@@ -1,4 +1,23 @@
 body {
   font-family: "Playfair Display", serif;
-  /* font-family: "Ubuntu", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+ color: #626262;
+}
+.menu-link {
+  color: #7d7d7d;
+}
+.menu-link:hover{
+  color: #03a903;
+}
+.gallery-category:hover{
+  font-family: "Ubuntu" , sans-serif;                        
+font-weight: 300;
+font-size: 14px;
+color: #b4ad9e;
+}
+.gallery-title{
+  font-weight: 400;
+font-size: 30px;
+color: #626262;
 }
